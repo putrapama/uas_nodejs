@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    background-image: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAI0AbQMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAABAgMABAf/xAAoEAACAgICAgIBBQADAAAAAAAAAQIRAyESMUFRE2EiBDJxgZFCUrH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APHoxUQTlqkR+aUo3Fb8k+c72VHRFuP7SnyRS2yWFNpt+Bqt9WAJ5MU/3OT+ibjxV7UfFl1FPuNfZOWOF3ysCNctg68so/SQvG+wEt+3/puMpFIxS2UTAisIJRrVIrkmor7I22wA0xlhk1ZWMfaDkyqMuMV0BGSUX+Eu/RXFjbVs502ndFVmk9WkB0tKK76Of5pX+HQfiyvXJtfyD4ZIB1Jz1ZSOLyzlqUHatMpHPJaewLuCQji/QvySb0gqU39IDcH6NP8ACNsPyOiOaXKVegJu5O32dGDBe2gfpsLnLk+iv6qf48Mel5YAyZcUVSdv6OTbd+x8eJy/ot8NASnj4sXjY0Mt6ltf+DSx6uDtALjlLG/xf9HTDPF/uWzjphjLi99AdzjjmvBDL+nrcehYuf8Axei+Oclqe0BzRlKGmrQ6yJ9FcuNSVo5ZRcWBRukShFyYW9bCpcF7foC6UoJcHpdoTJ0xFlnJpePQbfIBlKUEuJSGTmvvyI1aJNNPQEloeGRxehDAdSUMq/HUvRGeNxfQik4u0dWPJHKql/oHPGUovW/plllUtdAyYuJGgOtSoGSKls5lJotDKmqYEZgUW3pF3CEnZsjUIVHTYCwjwk260jRdIW0ocPfbFtgXhsEqsnGQ62BN45LwDg/TOhz/AINzA5XECuLtHXSkic4fQDYM6f4z6KZMKauJxyjRXDnlClLoBZQa8C0dkuE1ZCeP0BFtmXewvWhQKvwx3FPojFy68FVLjpgJKNdAU2kU5Jiyir0AOYObQmkYCny14GX6j3EgYC7yY5fuTQrWN9Tr+SRSGKUwApcX+LDLLKWlpfRRfpq7YVhSA56bKRgy6hFIKYE4wp7J5XcteC0vZCMGwFKKUq6sZ8MS3uXoR5p+EkgJmDRkgBQVGx4wsqo0AsMXllHJLpAcvAOLfgBll9h+RC/HoHCntgZzNbC+Me2I8qXSAoqfZpuOOLaq/BCWab0qRN923YGbbdt2Czdm0B0fh7Np9CJV2OpRQDxWyigR+VeBlNv6Arxgu2LzS6ROU4ruWyUsvpAWlla6JzzSeqRFybBYBe+zANTYBsHY6xurekK6vQGSAMugqLa0gKOeNg4J7TTIsyu9OgK8aBJ+EKssvd/yDlT6QGo1B+Rf9EH5X4jFf0AFFvpDrC+5Ul9k3kk+2wXbtgXrEl+9P+BXkiv2R/0kZAM5Sl2wBGigAkPyS8BekIwP/9k=');
+
+}
+
+.container {
+    font-family: sans-serif;
+    font-style: normal;
+    color: white;
+}
+
+.forminput {
+    width: min-content,100%;
+    margin-left: 0%;
+    border-radius: 30px;
+}
+.layout-tabel {
+    background-color: #ffffff;
+    width: 80vh;
+
+}
+
+.formedit {
+    width: min-content  ,100%;
+    margin-left: 1%;
+    padding: 50px;
+    border-radius: 10px;
+}
